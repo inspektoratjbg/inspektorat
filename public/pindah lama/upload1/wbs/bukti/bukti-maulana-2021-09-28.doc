@@ -1,0 +1,581 @@
+{\rtf\ansi\deff0\fs20
+{\fonttbl{\f0 Times New Roman;}{\f1 Arial;}}
+{\colortbl;\red0\green0\blue0;\red127\green127\blue127;\red28\green63\blue148;\red102\green102\blue102;\red89\green89\blue89;}
+{\info
+}
+\paperw11907 \paperh16840 \deftab1298 \margl851 \margr567 \margt1134 \margb1134 \pgnstart1\ftnnar \aftnnrlc \ftnstart1 \aftnstart1 {\header }
+{\footer {\fs20 \f1 \line Copyright @ 2021 JobStreet.com}
+}
+
+\pard\trowd\trql\clvmgf\clpadft3\clpadt227 \clpadfl3\clpadl284 \cellx1814\clvmgf\clpadft3\clpadt113 \clpadfb3\clpadb57 \cellx10489
+
+
+\intbl\itap2
+\ql\ql {\*\shppict {\pict\jpegblip\picscalex100\picscaley100\picwgoal1418\pichgoal1418 ffd8ffe000104a46494600010100000100010000fffe003e43524541544f523a2067642d6a7065672076312e3020287573696e6720494a47204a50454720763632292c2064656661756c74207175616c6974790affdb004300080606070605080707070909080a0c140d0c0b0b0c1912130f141d1a1f1e1d1a1c1c20242e2720222c231c1c2837292c30313434341f27393d38323c2e333432ffdb0043010909090c0b0c180d0d1832211c213232323232323232323232323232323232323232323232323232323232323232323232323232323232323232323232323232ffc00011080096009603012200021101031101ffc4001f0000010501010101010100000000000000000102030405060708090a0bffc400b5100002010303020403050504040000017d01020300041105122131410613516107227114328191a1082342b1c11552d1f02433627282090a161718191a25262728292a3435363738393a434445464748494a535455565758595a636465666768696a737475767778797a838485868788898a92939495969798999aa2a3a4a5a6a7a8a9aab2b3b4b5b6b7b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae1e2e3e4e5e6e7e8e9eaf1f2f3f4f5f6f7f8f9faffc4001f0100030101010101010101010000000000000102030405060708090a0bffc400b51100020102040403040705040400010277000102031104052131061241510761711322328108144291a1b1c109233352f0156272d10a162434e125f11718191a262728292a35363738393a434445464748494a535455565758595a636465666768696a737475767778797a82838485868788898a92939495969798999aa2a3a4a5a6a7a8a9aab2b3b4b5b6b7b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae2e3e4e5e6e7e8e9eaf2f3f4f5f6f7f8f9faffda000c03010002110311003f00e4e79a51712812c98de7f88fad33cf9bfe7ac9ff007d1a26ff008f897fdf3fcea3af9b949dcfdae108f2ad093cf9bfe7b49ff7d1a3cf9bfe7b49ff007d1a8e8a5cccaf671ec49e7cdff3da4ffbe8d1e7cdff003da4ff00be8d47451ccc3d9c7b1279f37fcf693fefa3479f37fcf693fefa351d147330f671ec49e7cdff003da4ff00be8d1e7cdff3da4ffbe8d47451ccc3d9c7b1279f37fcf693fefa3479f37fcf693fefa351d147330f671ec49e7cdff3da4ffbe8d1e7cdff003da4ff00be8d47451ccc3d9c7b1279f37fcf693fefa3479f37fcf693fefa351d147330f671ec49e7cdff003da4ff00be8d1e7cdff3da4ffbe8d47451ccc3d9c7b16209652e479b274fef1a2996ff00eb0fd28ad23276309c23cdb093ff00c7ccbfef9fe751d493ff00c7ccbfef9fe751d672dcde9fc2828a28a46814514500145150cf731c03e6397c6428ea6aa1073768ea635abd3a3173a8ec89a8ac6b9d59c481231d7938049c535aefcd61e54cfd8e1a5009aef865d51abb763e72b714e1612b45366dd1598ed7f1480c2be7237405b247e3d0d58b7bf4970ae0c6e4e086e84d655705569abee7660b3fc2e29f2df95f996e8a28ae33dd0a28a2800a28a28025b7ff00587e94516ffeb0fd28ad23b1cd53e2127ff8f997fdf3fcea3a927ff8f997fdf3fcea3a896e6b4fe141451452340a28a28020bab85b78771e598ed51ea6b0a577121667dce7a93ce4ff0087b569deabcd7491a7ccea3207a1aecfc37e01b77816ef526deee3708c7402bdcc2538d3a4a6f767e799e62e789c4ca927eec4f388e2b8705e36766ea4608cfe22b5a0b5b9b8b348c694645c85c8c3824f6e7a57b45978734b8880963100bc818ef5a8ba5db46772c08187238e95d5ed9f43c278657d4f0593c31ae450b3ae9cf6e8bf310808047e159330bab23b6feda4543f302cb8e6be8c9a1c671dfad636a1a4daea16b2db5cc28e8e08c11f74fa8a9f6aef6668a8d95e2791585dadc42abc920704f391576b265b5fecad4520194db2957504e0f35ad5e3e3692a73d3a9f7d90e36589c3da7bc740a28a2b8cf7828a28a0096dffd61fa5145bffac3f4a2b48ec7354f8849ff00e3e65ff7cff3a8ea49ff00e3e65ff7cff3a8ea25b9ad3f8505145148d028a28ebc0a008ed4635163b773315518ea0fff005ebd86c6375b78a3239550091eb8af36d1f44b883c6b6b6f7401276cfb50e46369efd3fce2bd02efedfe7e60bb8ada15c0019725cf727fc2be8629fb38a7a687e5f8869e22acd6b76cdcb7470dcad692c4ceb8e738efd6b8d8b54f115b4e0f9da5dddbf5261277a8aea6c357926b5f31c216dbcf1c669a4a3a33964dc95d15ef22743b48359ae08c961c547ac788752328874db582797383e6b1007e5598efe25908323d846e0e5e219231e9ebf8d2e54ddcb8c9ad1a3cf3c596cbfdb33be30eb28cfd320d455b5e3eb393edd65347110f7116c651c9c823fa56332b2b1560548ea0f04570e63af29f53c30aded57a09451457987d70514514012dbffac3f4a28b7ff587e945691d8e6a9f1093ff00c7ccbfef9fe751d493ff00c7ccbfef9fe751d44b735a7f0a0a28a291a05391ca48ae3aa9047e74da2844cb63d616ce1feddb7b88e108059b30dbd373b0cd5ad4b474bf8a27eac8c1821276363b30ee3d45544ba8658ed2e20b88a656842931b038200ea3a8adab598b8193c630457bf7ba4d1f98548b8b699cd69fe1182c6e279812b24b279aa50fcb00dc58aa0fee924e739e38ae86c544705c2aaed56ced04f419ab973b22b52507cc781ee692da255b7904c42c846483eb5526e4cc611515a1ca5d68c2fad6e15a59632eaca0c4d82af9e1fdf1e955749f0ddcdafd9c9b8903c418ccdb8959d89273b4e768038001e95d45bc4cb74f1c8b956e54fa8a96565b7184e9dc9a5cced60e54a7739dd6ec127bdd1e4600986eb1c8c8c329fea05709e217593c417a518b05936e5b92480057a48792eafa258c6583eef6e95e5da9e7fb5af32c0e277e41c83f31ae3c737c914cfa5e1c8af6f37e454a28a2bcb3ec828a28a0096dff00d61fa5145bff00ac3f4a2b48ec7354f8849ffe3e65ff007cff003a8ea49ffe3e65ff007cff003a8ea25b9ad3f8505145148d028a28a00d2d06e45a6b56ce4e159bcb63ec78af4ab6b964c8cf23823d2bc8fa723ad76561acbcd649338f9feebffb4401fcebd1c14ee9c19f29c4386d635d7a33b496e16eed5a02c46ee3721c106b3174382da078adee25811b25d56624e7d79ce09f6ac47b78ae48bb69ae377431c539418fc2ac2cde1cd8a93dd5f46c7ef8c9393f957a318a3e5d26cd8d3ad21d2032c2f298d87cab2b960beb827279fad3ee2f0480ae7ea6b9768ad8cfe6595d5ec70ae485331218fd0d4ab7fb21691c616352c477c0a4e2b708a6df2a333c4fa94d1dda5ac133c6163cc9b188dc4f63f862b9aa9aeae1eeeee5b87fbf231623d2a1af0eb54739b67e8b81c3470f4230b6bd428a28ac8ee0a28a28025b7ff587e94516ff00eb0fd28ad23b1cd53e2127ff008f997fdf3fcea3a927ff008f997fdf3fcea3a896e6b4fe141451452340a290b01d69a6403a727a0f4cd7452c256abf0a3cac5e7183c27f166afd96ac7d776be1a92dbc15a3ea31860d7aa6598f50ac7ee0f6caf1f5af397767250f43d857d2be1286df50f00e930ca8b2dbcb651aba9e4118af5f0f82f60b9a5b9f139bf103c6494292b417e2790dadf0b6dd14d17ce3a0eff87ad21f114f1b6c0df20edb79aeb3c51e0efb0ca0f2f6f21c47291c83fdd6f7f7ef5c7cbe18995b74773220f4ce6b7f76fa9e72a8e4ae98f9f524921121e18f5278157745d0aebc4826b68d8c29e4962e573b47f0e791d4f18fc6aff86bc0571aac8277722053ff001f120241ff007077faf4af51b6d36cb42d38c56ebb2288191d8f25c819c934f953d0cde29d369c5ea8f99d4ee19c60e4820f5041a5aacb705a5924c6564919c7d1893532caadedf5af1b1181a94db695d1f7f96e7f86c4d38c6a4b967d9e9f70fa28a2b84fa1bdc28a28a0096dff00d61fa5145bff00ac3f4a2b48ec7354f8849ffe3e25ff007cff003a88903a9feb525ef11dd9f5620fd335033e413dcf35eae132f85487b49f53e3f36e23ad86acf0f412d2dab1fe627605bb64f02a36949ef81ec290100163d875a889c614fd4d7a70c2d187c313e5b119be3711fc4a8ff224dc3a8f4dc6933fbcc01ca9c93db34d07aff3efd693246003f31392335b9e6b6dee29563267f135efdf092f8dd78263818e4da4ef001e8b9dcbfa357816ee31d47bd7acfc1a9a592db5ab3462a4cd1484ff00754a9071ee718a8a8af104f535bc79f12ac744bd7d17fb364bedf1e667dc15073f7549ea7dc743ef5c4d8fc45d2d2f61377a0dc4966ac37a9b90eca3d7181bb1d704f35d77c61f0a2de78760d62c62025d281df1a0e5e162377fdf27e6fcebc324996de0693fba3200ef53084251b96a728e899f5ed9dcdb5d58c17368e925b4918789a3e8ca4718ac2f1d5e9d37c11ab5d03893c831af383b9c851fcea9f80f4bb8f0c785f4cd32f65321913ccdfda391cee283d073c563fc67bf107862cec8121aeaed49c7a202dfcf159c6369d84de973c35542038e303001a5279c83cb738a56c800903dc530b663c6071dc57513b932484019191e9de9e25423b83e86ab6711e076e41fc69ca79dbf9d72d4c251a8ef289ea61b3ac6e1bdd85476f3d7f32c820f439fe74b55cf38c75ef4f5660719c83eb5c1572a5bd367d1e0b8ba49db131d3baff22d5bff00ac3f4a28b565760cb920af20f63457992a7283e592d51f5b4b114f1105569bba636f79fb42fab9c8fc4d504937c41b3ce00fc6addec83cc9bfdf61fa9acd4620b27a1c81ed5f4b868f2d28af23f2acd27ed319525e6ff0d0b039c8fa5248327da914e47b77a527e5033f80adcf3c08590107a1f438a6c6645c073e6023218f040f7f5a3711c74ce71f4a696c1f5a009b729c11c57a37c18bc10f8b2fad59b1f68b3dca3b128c3fa3579b06cff3c7bd75bf0d6f56d3e21e92cc70b319203ee594e3f502a65ac58753dc3c6babdbe87e0ed4ef6eb053c8689109fbeee36aafe24d781fc35b0d32ebc7da659ea7124f06c731239ca195402b907af018e3d6ba0f8e3e216bcd76d741864261b18c4f3af632bfddfae17ff42af3cb3d425d2b54b3d520ff00596932ccb8efb4e48fc46454538da2fcca6f53ebb9e14b885a2906e461835e21f18aed8ebba75834be61b6b63239e99676e33f82d7b6da5cc57b6705d4077453c6b221f552320feb5f397c48bdfb6fc42d5d83656274873e811467f5cd451bf304b6397639c83dfbd446520ec488bb74e0600fc69fc13e98e4d264ee1edd4d6e48d424aed75c37700e714f438c9ee3f952295c10074e293b1f5a009cb00c41e39344ac162dc38c2e2a00c4c833d3afe9417e157d4e4fd281976c4fef997b6dff000a299a73e6e4f3cec27f514578d8bc339d5723ef326cca9d1c1429cb757fcc65db0135c633feb1ff00f423540e7cc53df07f9d1457af4fe047c4e21fef65eac98104118e3de9d9f9871451566244e70ab919208c7e74f76ee473cf4a28a0428cee27a0c76ad3f0c5dfd9bc5ba24f82717f0f1f5700fe84d14527b0ccdf146a0fa8f89f5cbd6ceeb8d4245c1fe150db57ff001d00556c82a3228a288ec367d27f0bf50375f0e348790b96862688927390ac40fd00af9f750bc6bcd4af6ea427cc9ae6591b8f573c5145674fe26296c550dc1e294119ea70bce3d68a2b510d04f39ebde94fdd07bd1450313fc2a2562589c9ce28a2802dd837fa40e3f80ff314514543378b763fffd9}}{\nestcell{\nonesttables\par}\pard}
+{\*\nesttableprops \trowd\trql\trrh1701\cellx1985\nestrow}
+\intbl\itap1\~\cell
+
+\intbl\itap1
+\ql{\ql \li113 \ri284 \sl240 {\fs28 \f1 \cf3 \b Maulana Rizki\b0 \line }
+}\intbl\itap1
+\ql{\fs22 \f1 \cf4 \b Staff IT (2 years)\line Inspektorat Jombang\b0 }
+\cell
+
+\row
+\trowd\trql\clvmrg\cellx1814\cellx2948\cellx10489
+
+{}\intbl\cell
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+\row
+\trowd\trql\clvmrg\cellx1814\clvmgf\cellx10489
+
+{}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri113 \sa124 {\fs20 \f1 (+62) 87828294367 | maulana03myr19@gmail.com | IDR 5,000,000 | Kabupaten Kediri, Jawa Timur}
+\cell
+
+\row
+\pard\itap0
+\par \pard\trowd\trql\clpadft3\clpadt113 \clpadfb3\clpadb113 \clbrdrb\brdrs\brdrw20\brsp0\brdrcf2 \cellx2495\clbrdrb\brdrs\brdrw20\brsp0\brdrcf2 \cellx4196\clbrdrb\brdrs\brdrw20\brsp0\brdrcf2 \cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs26 \f1 \b Experience\b0 }
+\cell
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+\row
+\trowd\trql\clvmgf\clpadft3\clpadt113 \clpadfl3\clpadl227 \clpadfb3\clpadb227 \cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs22 \f1 3 years of total experience}
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \clpadfl3\clpadl170 \clpadfb3\clpadb170 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql{\ql \li113 \ri284 \sl240 {\fs20 \f1 Oct 2019 - Present}
+}\intbl\itap1
+\ql{\fs18 \f1 \cf2 \line (2 years)}
+\cell
+
+\intbl\itap1
+\ql{\ql \li113 \ri284 \sl240 {\fs24 \f1 \b Staff IT\b0 }
+}\intbl\itap1
+\ql{\fs20 \f1 \line Inspektorat Jombang}
+\intbl\itap1
+\ql{\fs20 \f1  | Jawa Timur}
+\intbl\itap1
+\ql{\fs20 \f1 , Indonesia}
+\cell
+
+\row
+\trowd\trql\cellx2495\cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Industry}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 Government / Defence}
+\cell
+
+\row
+\trowd\trql\cellx2495\cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Specialization}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 IT/Computer - Software}
+\cell
+
+\row
+\trowd\trql\cellx2495\cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Role}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 Software Engineer/Programmer}
+\cell
+
+\row
+\trowd\trql\cellx2495\cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Position Level}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 Staff (non-management & non-supervisor)}
+\cell
+
+\row
+\trowd\trql\cellx2495\clvmgf\clpadfl3\clpadl170 \cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf5 Work Experience\line \line E-Audit (2019-now) - Maintenence with vendor. Build make Codeigniter Framework.\line \line Website Profile (2019) - Fullstack Development Website Profile Inspektorat Kab. Jombang.\line \line WBS (2020) - Fullstack Development make Whistleblowing System (WBS) is a system for processing complaints/providing information submitted either directly or indirectly.\line \line Sakip Digital (2020-now) - Fullstack Development make e-SAKIP (Sistem Akuntabilitas Kinerja Instansi Pemerintahan) This system is an integration of the planning system, budgeting system and performance reporting system, which is in line with the implementation of the financial accountability system.\line \line Inventaris Digital (2020) - Fullstack Development make equipment inventory system and purchase of official equipment with outputs in the form of transaction reports, monthly transactions, annual report transactions.\line \line E-Surat (2020-now) - Fullstack Development make system for managing and storing digital mail archives in 2020 - 2021, a scheduling system for official vehicle repairs in 2021.\line \line AMS (Audit Management System) (2021-now) make it easier for audit and inspection teams to conduct, manage and report audit results (Planning and Audit Register, Manage audits, findings, recommendations and follow-up)\line \line E-ZI (Zona Integritas) (2021-now)\line \line I'm use php, mysql, xampp, spatie auth, laravel framework (v6 and v8) and Vue JS (npm 6 and node 12).}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfl3\clpadl170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \clpadfb3\clpadb170 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql{\ql \li113 \ri284 \sl240 {\fs20 \f1 Jan 2018 - Oct 2018}
+}\intbl\itap1
+\ql{\fs18 \f1 \cf2 \line (10 months)}
+\cell
+
+\intbl\itap1
+\ql{\ql \li113 \ri284 \sl240 {\fs24 \f1 \b Programmer\b0 }
+}\intbl\itap1
+\ql{\fs20 \f1 \line CV. Adistya IT Consultant}
+\cell
+
+\row
+\trowd\trql\cellx2495\cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Industry}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 Consulting (IT, Science, Engineering & Technical)}
+\cell
+
+\row
+\trowd\trql\cellx2495\cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Specialization}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 IT/Computer - Software}
+\cell
+
+\row
+\trowd\trql\cellx2495\cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Role}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 Software Engineer/Programmer}
+\cell
+
+\row
+\trowd\trql\cellx2495\cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Position Level}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 Fresh Grad / Less than 1 year experience}
+\cell
+
+\row
+\trowd\trql\cellx2495\clvmgf\clpadfl3\clpadl170 \cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf5 Work Experience\line \line E-Dishub (2017) - Staff Magang development apk e-dishub (Android App with Java and Android Studio)\line \line Siabjo (2018) - Staff Programmer maintenance SIABJO (Sistem Absensi Finger Print)\line \line ASIK (2018) - Instalation infrastrukture ASIK.\line \line Development and tools with Python, Django Framework, Java, Android Studio, Sublime, and Networking.}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfl3\clpadl170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \clpadfb3\clpadb170 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql{\ql \li113 \ri284 \sl240 {\fs20 \f1 Oct 2015 - Oct 2016}
+}\intbl\itap1
+\ql{\fs18 \f1 \cf2 \line (1 year 1 month)}
+\cell
+
+\intbl\itap1
+\ql{\ql \li113 \ri284 \sl240 {\fs24 \f1 \b Admin Assistant\b0 }
+}\intbl\itap1
+\ql{\fs20 \f1 \line Universitas Nusantara PGRI Kediri}
+\intbl\itap1
+\ql{\fs20 \f1  | Jawa Timur}
+\intbl\itap1
+\ql{\fs20 \f1 , Indonesia}
+\cell
+
+\row
+\trowd\trql\cellx2495\cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Industry}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 Education}
+\cell
+
+\row
+\trowd\trql\cellx2495\cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Specialization}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 Clerical/Administrative Support}
+\cell
+
+\row
+\trowd\trql\cellx2495\cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Role}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 Contracts Administration}
+\cell
+
+\row
+\trowd\trql\cellx2495\cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Position Level}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 Fresh Grad / Less than 1 year experience}
+\cell
+
+\row
+\trowd\trql\cellx2495\clvmgf\clpadfl3\clpadl170 \cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf5 Information Systems Study Program Administrative Staff, the job of doing data administration and lecture needs for students and lecturers (Lecture Activities, Proposal Seminar, Skripsi, Other Activities in the Study Program). operator of the lecture management system (SIAKAD) from krs, grades, student and lecturer data. Website Operator Information Systems Study Program, Library System Operator Information Systems Study Program.}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfl3\clpadl170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+\row
+\trowd\trql\clvmgf\clpadft3\clpadt113 \clpadfl3\clpadl170 \clpadfb3\clpadb113 \clbrdrb\brdrs\brdrw20\brsp0\brdrcf2 \cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs26 \f1 \b Education\b0 }
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \clpadfl3\clpadl170 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 2019}
+\cell
+
+\intbl\itap1
+\ql{\ql \li113 \ri284 \sl240 {\fs24 \f1 \b Universitas Nusantara PGRI Kediri\b0 }
+}\intbl\itap1
+\ql{\fs20 \f1 \line Bachelor's Degree}
+\intbl\itap1
+\ql{\fs20 \f1  in Engineering (Computer/Telecommunication)}
+\intbl\itap1
+\ql{\fs20 \f1  | Indonesia}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfl3\clpadl170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+\row
+\trowd\trql\clvmgf\clpadft3\clpadt113 \clpadfl3\clpadl170 \clpadfb3\clpadb113 \clbrdrb\brdrs\brdrw20\brsp0\brdrcf2 \cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs26 \f1 \b Skills\b0 }
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \clpadfl3\clpadl170 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Advanced}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 Python, PHP And MySQL, CSS, HTML, Laravel}
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Intermediate}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 JavaScript, Vue Js}
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Basic}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 Data Analysis, Java Programming, Django Framework}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfl3\clpadl170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+\row
+\trowd\trql\clvmgf\clpadft3\clpadt113 \clpadfl3\clpadl170 \clpadfb3\clpadb113 \clbrdrb\brdrs\brdrw20\brsp0\brdrcf2 \cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs26 \f1 \b Languages\b0 }
+\cell
+
+\row
+\trowd\trql\clvmgf\clpadft3\clpadt113 \clpadfl3\clpadl113 \clpadfb3\clpadb113 \cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 \i Proficiency level: 0 - Poor, 10 - Excellent\i0 }
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Language}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Spoken 	Written }
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 Bahasa Indonesia (Primary)}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1    8 	   8}
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 English}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1    7 	   6}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfl3\clpadl170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+\row
+\trowd\trql\clvmgf\clpadft3\clpadt113 \clpadfl3\clpadl170 \clpadfb3\clpadb113 \clbrdrb\brdrs\brdrw20\brsp0\brdrcf2 \cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs26 \f1 \b Additional Info\b0 }
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \clpadfl3\clpadl170 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Expected Salary}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 IDR 5,000,000}
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \clpadfb3\clpadb170 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Preferred Work Location}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 Anywhere in Indonesia, Jawa Timur, DKI Jakarta}
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \cellx2495\cellx4196\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Other Information}
+\cell
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+\row
+\trowd\trql\clvmgf\clpadft3\clpadt113 \cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf5 Saya pernah ikut Digital Talent Scholarship pada tahun 2018 yang di adakan di 4 kampus yaitu UI, ITB, UGM dan ITS. Saat mengikuti Digital Talent Scholarship tahun 2018 saya mengambil program keahlian Big Data, dalam pelatihan tersebut saya menggunakan bahasa pemgrograman python, mempelajari statistika dasar, machine learning, dan penggunaan tools power BI.\line \line Saya dulu pernah bekerja di IT Consulting yang fokus dalam pengembang teknologi di pemerintahan (e-governence), di situ saya awalnya magang dan saat magang saya mengerjakan aplikasi android (e-dishub kab. kediri) dengan mengunakan fasilitas web service. setelah magang selesai saya di tawari untuk lanjut sebagai programmer android dan sampai akhirnya saya juga membantu mengembangkan aplikasi berbasis website menggunakan bahasa pemrograman python dengan django frameworknya.\line \line Dan saat ini saya bekerja di salah satu instansi pemerintahan di kabupaten jombang sebagai Tenaga Ahli Teknologi Informasi yang bertugas sebagai pengembang sistem E-Audit, namun selain sistem E-Audit yang dikembangkan bersama pihak ke-3 saya dan rekan2 di kantor juga mengembangkan Website profil, E-Sakip, E-Surat, WBS dan Aplikasi Inventaris. pada awalnya sebelum pengembangan tujuan kita bersama adalah untuk membuat sistem yang mengelola aset kantor secara digital dan sebagai satu-satunya Programmer saya hanya berusaha membantu secara teknis pengembangan aplikasi dari ide-ide dari rekan-rekan di kantor Inspektorat Kabupaten Jombang.}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfl3\clpadl170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+\row
+\trowd\trql\clvmgf\clpadft3\clpadt113 \clpadfl3\clpadl170 \clpadfb3\clpadb113 \clbrdrb\brdrs\brdrw20\brsp0\brdrcf2 \cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs26 \f1 \b About Me\b0 }
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \clpadfl3\clpadl170 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Gender}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 Male}
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Age}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 26 years}
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Address}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 Dsn. Pogar RT/RW 001/015 Ds. Tunglur Kec. Badas, 64222, Kabupaten Kediri, Jawa Timur, Indonesia}
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Nationality}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 Indonesia}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfl3\clpadl170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+\row
+\pard\itap0
+
+}
