@@ -41,7 +41,16 @@
                                 </div>
                             @endif
                         </div>
-
+                        <div class="captcha">
+                            <span>{!! captcha_img('flat') !!}</span>
+                            <button type="button" class="btn btn-success btn-refresh" name="button">Refresh</button>
+                          </div>
+                          <input class="form-control mt-2 {{ $errors->has('captcha') ? ' is-invalid' : '' }}" type="text" name="captcha" id="captcha" placeholder="Masukan Captcha..." required>
+                          @if($errors->has('captcha'))
+                                <div class="invalid-feedback">
+                                    Mohon Mengisi Captcha Dengan Benar!
+                                </div>
+                            @endif
                         <div class="input-group mb-4">
                             <div class="form-check checkbox">
                                 <input class="form-check-input" name="remember" type="checkbox" id="remember" style="vertical-align: middle;" />
@@ -50,7 +59,6 @@
                                 </label>
                             </div>
                         </div>
-
                         <div class="row">
                             <div class="col-6">
                                 <button type="submit" class="btn btn-primary px-4">
@@ -71,3 +79,24 @@
     </div>
 </div>
 @endsection
+@section('scripts')
+<script type="text/javascript">
+    $('.btn-refresh').click(function() {
+      $.ajax({
+        type: 'GET',
+        url: '/refresh_captcha',
+        success: function (data) {
+          $('.captcha span').html(data);
+        }
+      });
+    });
+    $(document).ready(function () {
+    $('.navbar-light .dmenu').hover(function () {
+            $(this).find('.sm-menu').first().stop(true, true).slideDown(150);
+        }, function () {
+            $(this).find('.sm-menu').first().stop(true, true).slideUp(105)
+        });
+    });
+</script>
+@endsection
+

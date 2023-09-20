@@ -79,6 +79,11 @@
             @yield("content")
         </div>
     </div>
+
+
+    <script src="{{ asset('wbs/js/jquery-3.3.1.min.js') }}"></script>
+    <script src="{{ asset('wbs/js/jquery-migrate-3.0.1.min.js') }}"></script>
+    <script src="{{ asset('wbs/js/jquery-ui.js') }}"></script>
     @yield('scripts')
 </body>
 

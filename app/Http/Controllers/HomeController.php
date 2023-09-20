@@ -30,7 +30,7 @@ class HomeController extends Controller
         $user = Auth::getUser();
         $penggunaa = Auth::getUser();
         $pengguna = pegawai::where('nip', $penggunaa['name'])->first();
-        $gambar = gambar::where('kategori_gambar', 'like', '%'.'profil'.'%')->limit(5)->get();
+        $gambar = gambar::where('kategori_gambar', 'like', '%'.'profil'.'%')->orderByDesc('created_at')->limit(5)->get();
         // dd($pengguna->nama_pegawai);
         
         return view('home', compact(['pengguna', 'gambar']));

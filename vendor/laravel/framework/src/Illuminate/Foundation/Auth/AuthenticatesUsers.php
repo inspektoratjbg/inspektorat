@@ -5,7 +5,7 @@ namespace Illuminate\Foundation\Auth;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Validation\ValidationException;
-
+use Validator;
 trait AuthenticatesUsers
 {
     use RedirectsUsers, ThrottlesLogins;
@@ -64,10 +64,15 @@ trait AuthenticatesUsers
      */
     protected function validateLogin(Request $request)
     {
+        
         $request->validate([
             $this->username() => 'required|string',
             'password' => 'required|string',
+            'captcha' => 'required|captcha',
         ]);
+        //Tambah Captcha
+        $rules = ['captcha' => 'required|captcha'];
+        $validator = Validator::make($request->all(), $rules);
     }
 
     /**

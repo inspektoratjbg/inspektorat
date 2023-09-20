@@ -430,7 +430,7 @@ class FrontController extends Controller
 
     public function refreshCaptcha()
     {
-      return captcha_img('math');
+      return captcha_img('flat');
     }
 
     public function pegawai()
